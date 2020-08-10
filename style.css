@@ -1,0 +1,133 @@
+
+.titolo {
+width: 500px;
+height: 80px;
+  text-align: center;
+  background-color: pink;
+  padding: 20px;
+  border-radius: 250px;
+  border: solid 5px magenta;
+  margin: 150px 0px 0 500px;
+  font-family: cursive;
+  filter:blur(10%) brightness(200%) opacity(90%)saturate(80%);
+  transform: rotate(45deg);
+  background: linear-gradient(green,pink,magenta,blue,lightblue,red);
+
+}
+
+ .frecciaAsinistra, .div1 {
+width:100px;
+height: 50px;
+  float:right;
+  margin: 0 300px 8px 0;
+  padding:0;
+  border:solid 3px yellow;
+  background-color: pink;
+transform: rotate(75deg);
+  border-radius:150px;
+  filter:none;
+  font-family: cursive;
+  color: white;
+  font-weight: bold;
+  font-style: italic;
+}
+.margin {
+  margin-right: 0px;
+}
+.foto2 {
+  width: 300px;
+  height: 500px:;
+  border-radius: 500px;
+  filter: brightness(150%)contrast(150%)saturate(200%);
+border:solid 10px rgb(100,82,60);
+float:left
+}
+.display{
+  display: inline;
+}
+.foto3 {
+  width: 300px;
+  height: 500px:;
+  border-radius: 500px;
+  filter: brightness(150%)contrast(150%)saturate(200%);
+border:solid 10px salmon;
+float:right;
+}
+h1 {
+  clear:left;
+}
+.foto4 {
+  width: 300px;
+  height: 500px:;
+  border-radius: 500px;
+  filter: brightness(150%)contrast(150%)saturate(200%);
+border:solid 10px royalblue;
+float:left;
+margin-top: 100px;
+}
+.foto5 {
+  width: 300px;
+  height: 500px:;
+  border-radius: 500px;
+  filter: brightness(150%)contrast(150%)saturate(200%);
+border:solid 10px turquoise;
+float: right;
+margin: 50px 0 0 500px;
+}
+
+.testo {
+  text-align: center;
+  clear: left;
+  clear: right;
+}
+
+.titoloLetterina {
+  color:purple;
+font-size: 100px;
+text-align: center;
+font-weight: bolder;
+}
+
+.ps{
+  font-size: 70px;
+  text-align: center;
+  font-weight: bold;
+  font-family: monospace italic;
+color: forestgreen;
+}
+
+.div2 {
+    border-radius: 100px;
+    font-weight: lighter;
+    border: solid 5px royalblue;
+    padding: 0 10px 20px 10px;
+    font-style: italic;
+    font-family: cursive;
+}
+
+.letterina {
+  text-align: justify;
+  font-size: 25px;
+}
+
+.auguri {
+font-size: 50px;
+text-align: center;
+font-weight: bolder;
+font-style: oblique;
+font-family: fantasy;
+padding: 0 300px 0 230px;
+}
+
+
+.love {
+  font-size: 200px;
+  color: red;
+  transform: rotate(-45deg);
+   font-weight: normal;
+   text-align: center;
+   margin: 200px 200px 0 300px;
+   background-color: yellow;
+   border-radius: 500px;
+ border:solid 10px salmon;
+  }
